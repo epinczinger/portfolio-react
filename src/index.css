@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.himglist {
+    min-width: 200px;
+    max-width: 350px;
+}
